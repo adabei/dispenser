@@ -5,3 +5,6 @@ Ever started a game but ran into frame issues because you were still using the p
 ## Setup
 
 ## License
+
+Dispenser is released under the MIT license. See LICENSE for details.
+
